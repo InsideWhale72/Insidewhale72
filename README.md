@@ -10,19 +10,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insidewhale72&label=Profile%20views&color=0e75b6&style=flat" alt="insidewhale72" /> </p>
 
-- 🔭 I’m currently working on [Mintbot](https://github.com/InsideWhale72/MintBot)
+- 🔭 I’m currently working on - [Mintbot](https://github.com/InsideWhale72/MintBot)
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning - **R**
 
-- 👨‍💻 All of my projects are available at [https://github.com/InsideWhale72](https://github.com/InsideWhale72)
+- 👨‍💻 All of my projects are available at - [https://github.com/InsideWhale72](https://github.com/InsideWhale72)
 
-- 📝 I regularly write on [insidewhale72dev.co.uk](insidewhale72dev.co.uk)
+- 📝 I regularly write on - [insidewhale72dev.co.uk](insidewhale72dev.co.uk)
 
-- 📫 How to reach me **Insidewhale72@gmail.com**
+- 📫 How to reach me - **Insidewhale72@gmail.com**
 
-- 📄 (My resume Will be on my website soon!)
+- 📄 - (My resume Will be on my website soon!)
 
-- ⚡ Fun fact **I have a interest in radios!**
+- ⚡ Fun fact - **I have a interest in radios!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
