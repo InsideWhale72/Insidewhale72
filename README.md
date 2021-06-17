@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **Insidewhale72@gmail.com**
 
-- 📄 Know about my experiences [My resume Will be on my website soon!](My resume Will be on my website soon!)
+- 📄 (My resume Will be on my website soon!)
 
 - ⚡ Fun fact **I have a interest in radios!**
 
