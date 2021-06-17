@@ -1,3 +1,4 @@
+### Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insidewhale72&show_icons=true&theme=tokyonight&count_private=true)
 ### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insidewhale72)](https://github.com/Insidewhale72/github-readme-stats)
