@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/insidewhale72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insidewhale72" height="30" width="40" /></a>
 </p>
+
 ### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insidewhale72)](https://github.com/Insidewhale72/github-readme-stats)
 
