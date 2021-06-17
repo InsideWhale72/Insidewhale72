@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Inside</h1>
 <h3 align="center">A Full-stack dev with most experience in Back-end dev and Networking</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=insidewhale72&label=Profile%20views&color=0e75b6&style=flat" alt="insidewhale72" /> </p>
-
 <p align="left"> <a href="https://twitter.com/insidewhale72" target="blank"><img src="https://img.shields.io/twitter/follow/insidewhale72?logo=twitter&style=for-the-badge" alt="insidewhale72" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=insidewhale72&label=Profile%20views&color=0e75b6&style=flat" alt="insidewhale72" /> </p>
 
 - 🔭 I’m currently working on [Mintbot](https://github.com/InsideWhale72/MintBot)
 
