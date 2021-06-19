@@ -1,10 +1,12 @@
 
 
-### Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insidewhale72&show_icons=true&theme=tokyonight&count_private=true)
+
 
 <h1 align="center">Hi 👋, I'm Inside</h1>
 <h3 align="center">A Full-stack dev with most experience in Back-end dev and Networking</h3>
+
+### Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insidewhale72&show_icons=true&theme=tokyonight&count_private=true)
 
 <p align="left"> <a href="https://twitter.com/insidewhale72" target="blank"><img src="https://img.shields.io/twitter/follow/insidewhale72?logo=twitter&style=for-the-badge" alt="insidewhale72" /></a> </p>
 
