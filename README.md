@@ -21,7 +21,7 @@
 
 - 📄 - (My resume Will be on my website soon!)
 
-- ⚡ Fun fact - **I have a ham radio opreating liscence!**
+- ⚡ Fun fact - **I have a ham radio operating liscence!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
